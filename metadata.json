@@ -1,0 +1,6 @@
+{
+  "name": "Quiz de Segurança de Dados",
+  "description": "Um exercício gamificado interativo sobre proteção de dados e impactos de violações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
